@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/automator" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/inrt" />
+            <option value="$PROJECT_DIR$/opencv" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

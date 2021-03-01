@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/automator/Auto.js.automator.iml" filepath="$PROJECT_DIR$/.idea/modules/automator/Auto.js.automator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Auto.js.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Auto.js.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inrt/Auto.js.inrt.iml" filepath="$PROJECT_DIR$/.idea/modules/inrt/Auto.js.inrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv/Auto.js.opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv/Auto.js.opencv.iml" />
     </modules>
   </component>
 </project>
